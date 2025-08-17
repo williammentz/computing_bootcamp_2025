@@ -1,6 +1,3 @@
-Test, blah blah
-This is a test to see how I can push my code to GitHub
-
 # DSS Computing Bootcamp 2025
 
 This is a test
